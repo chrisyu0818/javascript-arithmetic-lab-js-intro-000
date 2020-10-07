@@ -19,6 +19,6 @@ function decrement(n) {
 function makeInt(n) {
   return "n"
 }
-function makeInt('n',0) {
+function makeInt(n,0) {
   return "n"
 }
